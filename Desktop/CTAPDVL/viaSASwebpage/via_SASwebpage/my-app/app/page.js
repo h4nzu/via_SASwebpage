@@ -142,16 +142,7 @@ Overall, the modules helped me see that my “self” is a blend of biological, 
           <div className="p-10 bg-white border border-brand-pink rounded-sm shadow-md transition-transform hover:-translate-y-2 duration-300">
             <h3 className="font-serif text-2xl mb-6 uppercase tracking-tighter text-brand-pink border-b border-brand-pink/20 pb-2">Health Manifesto</h3>
             <div className="text-sm text-brand-charcoal/80 space-y-4 leading-relaxed whitespace-pre-wrap text-justify">
-              I intend to live mindfully.
-              I intend to be present and appreciate the present moment.
-              I intend to build a healthier relationship with myself.
-
-              I aim to become more emotionally balanced.
-              I aim to develop healthier coping mechanisms.
-              I am to improve my self-confidence and body image.
-              I aim to continue becoming responsible in my decisions.
-
-              I commit to living life guided by these values, beliefs, and principles. This Personal Manifesto will serve as my reminder that I am not living by chance, but by choice.
+             waley pa
             </div>
           </div>
           

@@ -1,5 +1,13 @@
 import "./globals.css";
 
+export const metadata = {
+  title: "Eya's Website", // Change this to your desired tab name
+  description: "SAS1: Self and Society Project",
+  icons: {
+    icon: "/icon.png", // Explicitly pointing to your png
+  }
+};
+
 export default function RootLayout({ children }) {
   return (
     <html lang="en" className="scroll-smooth">

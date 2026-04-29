@@ -140,9 +140,46 @@ Overall, the modules helped me see that my “self” is a blend of biological, 
           </div>
 
           <div className="p-10 bg-white border border-brand-pink rounded-sm shadow-md transition-transform hover:-translate-y-2 duration-300">
-            <h3 className="font-serif text-2xl mb-6 uppercase tracking-tighter text-brand-pink border-b border-brand-pink/20 pb-2">Health Manifesto</h3>
-            <div className="text-sm text-brand-charcoal/80 space-y-4 leading-relaxed whitespace-pre-wrap text-justify">
-             waley pa
+            <h3 className="font-serif text-2xl mb-6 uppercase tracking-tighter text-brand-pink border-b border-brand-pink/20 pb-2">
+              Health Manifesto
+            </h3>
+            
+            <div className="text-sm text-brand-charcoal/80 flex flex-col gap-y-3 leading-relaxed text-left">
+              <p>Health is holistic.</p>
+              <p className="mb-4">Taking care of myself is not just a responsibility, but a commitment to living a good life.</p>
+
+              <p className="font-serif italic text-lg text-brand-charcoal mb-4">My body is my home, not my enemy.</p>
+
+              <p>I value balance, self-respect, and self-compassion.</p>
+              <p className="mb-4">I understand that being healthy is about sustainability and mindful habits.</p>
+
+              {/* Commitment Section */}
+              <div className="space-y-1 mb-4 border-l-2 border-brand-sage pl-4 italic text-brand-charcoal">
+                <p>I will treat my body with care and respect.</p>
+                <p>I will move away from harmful habits and continue healing my relationship with food.</p>
+                <p>I will not compare myself to others. Instead, I will focus on what my body can do.</p>
+              </div>
+
+              <div className="space-y-1 mb-4">
+                <p>I will find healthier ways to cope with stress.</p>
+                <p>I will allow myself to feel emotions without being overwhelmed by them.</p>
+                <p>I will practice self-awareness.</p>
+                <p>I will seek support when needed and not isolate myself.</p>
+              </div>
+
+              <div className="space-y-1 mb-4 text-brand-sage font-medium">
+                <p>I will listen to my body’s needs.</p>
+                <p>I will rest without guilt.</p>
+                <p>I will nourish my body.</p>
+                <p>I will take breaks when overwhelmed.</p>
+              </div>
+
+              <p>I intend to create a balanced lifestyle where I can function well physically and emotionally.</p>
+              <p className="mb-4">I intend to join every moment with my loved ones and engage in activities that bring me peace.</p>
+
+              <p className="pt-6 mt-4 border-t border-brand-pink/10 font-serif italic text-center text-brand-sage">
+                "Taking care of myself is a commitment to living a good life."
+              </p>
             </div>
           </div>
           

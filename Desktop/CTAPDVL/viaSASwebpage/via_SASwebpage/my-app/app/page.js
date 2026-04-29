@@ -52,17 +52,29 @@ export default function Home() {
             <div className="text-brand-charcoal/90 leading-relaxed space-y-6 text-lg whitespace-pre-wrap">
               <p>
                 The lessons and activities from the different modules really helped me understand my “self” in a deeper way, as each module connects on how we see, experiences, and develop ourselves. 
-
+              </p>
+            <p></p>
+              <p>
 I now define myself as something that has been and continues to be shaped by both internal and external factors. I agree with the idea of constructivism, that our “self” is not fixed—it is formed through our individual experiences. My thoughts and emotions influence my decisions, but at the same time, my relationships and social interactions shape how I see myself. From my interviews, I realized that how others perceive me mostly aligns with how I see myself. Personally, it gives me a clearer picture and sense of identity.
-
+            </p>
+            <p></p>
+              <p>
 In terms of biological influences, my physical conditions, such as being asthmatic, has somehow affected my lifestyle choices, especially in sports and activities. However, I am aware of my body and its needs. Although I struggled before with unhealthy habits like extreme calorie restriction and other eating disorders, I am now trying to take better care of myself by slowly changing my mindset and behaviors. 
-
+            </p>
+            <p></p>
+              <p>
 Module 2 also made me reflect on my insecurities. While I am somewhat comfortable with how I look, I still struggle with my weight and comparisons influenced by social media and family expectations. However, I am learning to manage these societal pressures by exposing myself to various self-help content and practicing self-awareness.
-
+            </p>
+            <p></p>
+              <p>
 Today, I see myself as a straightforward, independent, and expressive person. I have developed these traits over time, especially during college, where I learned to handle responsibilities and become more self-reliant. I recognize that I am still in the process of discovering who I am. My experiences, both past and present struggles and challenges, continue to shape my values and beliefs. While I feel somewhat secure, I am still open to growth and change.
-
+    </p>
+            <p></p>
+              <p>
 Lastly, this class made me more aware of my emotional state and coping mechanisms. While I consider myself generally okay, I acknowledge that I still get so overwhelmed at times. My current strategies include sleeping, eating, and spending time with the people I value—which I can still improve.
-
+</p>
+            <p></p>
+              <p>
 Overall, the modules helped me see that my “self” is a blend of biological, psychological, and social factors. My strengths include being empathetic, expressive, and independent. However, my areas for improvement involve stress management, reducing overthinking, and building a healthier relationship with my body. 
 
 
@@ -75,11 +87,17 @@ Overall, the modules helped me see that my “self” is a blend of biological, 
               <p>
                 
                 After interviewing two people about their impressions of me, I gained an understanding of how they perceive my personality, strengths, and weaknesses, or areas for growth. They described my personality in almost similar terms, such as straightforward, genuine, empathetic, and smart. Honestly, hearing this made me realize that I present myself as someone with a strong personality, yet still capable of being understanding and being there for others. It turns out that one of my outstanding features is my straightforwardness. 
-
+              </p>
+            <p></p>
+              <p>
                 According to them, I am someone who is not afraid to express my thoughts and confront my emotions rather than avoid them. They also stated that one of my abilities is communicating and expressing myself freely, as I tend to be open about what I feel and think, which helps me connect with others. Because of this, they view me as a reliable and supportive person—someone who creates a space where people can feel seen and heard.
-
+              </p>
+            <p></p>
+              <p>
                 In social situations, I was described as approachable and warm. Even if I may seem quiet at first, I become more comfortable with others and engage in conversations once I find common ground. This helped me realize that my social presence is better than what I assume it is. However, they also pointed out that I sometimes focus too much on possible outcomes rather than enjoying the present moment, which is an area I need to work on. I also learned that when I face stress, and I sometimes feel overwhelmed with my emotions.
-
+              </p>
+            <p></p>
+              <p>
                 These interviews helped me see myself in different ways and perspectives. I now understand how my actions and personality affect them, and how I can continue to improve myself.
 
 
